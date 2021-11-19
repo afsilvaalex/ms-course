@@ -33,5 +33,9 @@ build/
 .vscode/
 
 
+### eclipse ###
+.metadata
+
 ### mac ###
 .DS_Store
+/.metadata/
