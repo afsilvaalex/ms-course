@@ -1,4 +1,4 @@
-package com.afsilva.hrpayrool;
+package com.afsilva.hrpayroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
